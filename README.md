@@ -1,4 +1,4 @@
-# faultycalculator
+# FAULTY CALCULATOR
 
 print("enter the 1st number")
 n1 = int(input())
@@ -24,3 +24,4 @@ elif n3=='/':
 else:
     print("select an appropriate operator")
 
+# THIS CALCULATOR MAY GIVE YOU THE WRONG VALUES OF THE ABOVE MENTIONED THREE VALUES/OPERATIONS
